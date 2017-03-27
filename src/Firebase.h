@@ -25,7 +25,7 @@
 #include "FirebaseHttpClient.h"
 #include "FirebaseError.h"
 #define ARDUINOJSON_USE_ARDUINO_STRING 1
-#include "third-party/arduino-json-5.6.7/include/ArduinoJson.h"
+#include "ArduinoJson.h"
 
 class FirebaseGet;
 class FirebaseSet;
